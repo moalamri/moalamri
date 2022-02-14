@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there❕
 
-<!--
-**moalamri/moalamri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have private repos for medical instruments interfacing
 
-Here are some ideas to get you started:
+|Provider| Model |  Connection
+|--|--|--|
+| Sysmex |XP-300| TCP/IP Uni-direction
+|Sysmex |CS-2500|TCP/IP Bi-direction
+| Abbott |ARCHITECT |TCP/IP Bi-direction
+| Beckman Coluter  | Access2 |TCP/IP Bi-direction
+| Beckman Coluter | DxH500 |TCP/IP Bi-direction
+| Beckman Coluter | DxH800 |TCP/IP Bi-direction
+| Beckman Coluter | **AU480** |TCP/IP Bi-direction
+| Stago | Compact Max |TCP/IP Bi-direction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please DM me on Twitter to have access, they are free and open-source written in C# .NET Framework with debugging UI for connection status, Messages, Last Event and parsed ASTM data.
+
+- 📫 How to reach me: [Twitter](https://twitter.com/MoDev32)
