@@ -1,6 +1,6 @@
 ### Hi there❕
 
-I have private repos for medical instruments interfacing
+I have private repos for medical instruments interfacing for the following machines
 
 |Provider| Model |  Connection
 |--|--|--|
