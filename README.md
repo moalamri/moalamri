@@ -7,6 +7,7 @@ I have private repos for medical instruments interfacing for the following machi
 | Sysmex |XP-300| TCP/IP Uni-direction
 |Sysmex |CS-2500|TCP/IP Bi-direction
 | Abbott |ARCHITECT |TCP/IP Bi-direction
+| Abbott |Cell-Dyn |TCP/IP Uni-direction
 | Beckman Coluter  | Access2 |TCP/IP Bi-direction
 | Beckman Coluter | DxH500 |TCP/IP Bi-direction
 | Beckman Coluter | DxH800 |TCP/IP Bi-direction
