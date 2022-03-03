@@ -16,4 +16,4 @@ I have private repos for medical instruments interfacing for the following machi
 
 Please DM me on Twitter to have access, they are free and open-source written in C# .NET Framework with debugging UI for connection status, in/out messages, recent event and parsed ASTM data.
 
-- 📫 How to reach me: [Twitter](https://twitter.com/MoDev32)
+- 📫 How to reach me: [Twitter](https://twitter.com/MoAlamri32)
