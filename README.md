@@ -14,6 +14,6 @@ I have private repos for medical instruments interfacing for the following machi
 | Beckman Coluter | **AU480** |TCP/IP Bi-direction
 | Stago | Compact Max |TCP/IP Bi-direction
 
-Please DM me on Twitter to have access, they are free and open-source written in C# .NET Framework with debugging UI for connection status, in/out messages, recent event and parsed ASTM data.
+For nonprofit healthcare providers please DM me on Twitter to have access (an attempt to fight monopolism in this field 🤔). They are free and open-source, written in C# using .Net Framework 4.7 with GUI. The driver app has four monitoring screens for connection status, in/out messages, recent events and parsed ASTM data.
 
-- 📫 How to reach me: [Twitter](https://twitter.com/MoAlamri32)
+- 📫 How to reach me: [Twitter](https://twitter.com/moalamri32)
