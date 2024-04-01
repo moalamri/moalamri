@@ -1,1 +1,1 @@
-📫 How to reach me: [Twitter](https://twitter.com/moalamri32)
+📫 How to reach me: [X](https://x.com/moalamri32)
